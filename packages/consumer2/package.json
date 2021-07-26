@@ -1,0 +1,7 @@
+{
+  "name": "consumer2",
+  "dependencies": {
+    "lodash": "4.17.21",
+    "shared": "workspace:*"
+  }
+}

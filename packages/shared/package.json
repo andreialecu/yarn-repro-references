@@ -1,0 +1,6 @@
+{
+  "name": "shared",
+  "peerDependencies": {
+    "lodash": "*"
+  }
+}
